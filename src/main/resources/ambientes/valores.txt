@@ -1,0 +1,5 @@
+KERIGMA_ENVIRONMENT=DEBUG
+KERIGMA_ISSUER=OFS
+KERIGMA_AUTH_TOKEN=Authorization
+KERIGMA_PUBLIC_KEY_PATH=/home/leo/Documentos/personales/kerigma/src/main/resources/keys/rs512-4096-public.der
+KERIGMA_PRIVATE_KEY_PATH=/home/leo/Documentos/personales/kerigma/src/main/resources/keys/rs512-4096-private.der
